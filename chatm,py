@@ -1,0 +1,12 @@
+# Titulo: Chatm
+# Botão de iniciar Chat
+    # popup (janela da frente da tela)
+    # Titulo: Bem vindo ao Chatm
+    # campo de texto -> Escreva seu nome no Chat
+    # Botão: Entrar no Chat
+        # Sumir com o titulo Chatm
+        # Fechar a janela (popup)
+        # Carregar chat
+            # As mensagens que ja foram enviadas (chat)
+            # Campo: Digite sua mensagem
+            # Botão de enviar
